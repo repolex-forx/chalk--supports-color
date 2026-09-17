@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "chalk",
+  "repo": "supports-color",
+  "versions": [
+    {
+      "commit": "d4068e70f02d9bf3813fc877bdad7360d8e51d71",
+      "parsed_at": "2026-09-17T04:59:02.370176+00:00",
+      "tag": "v10.2.2",
+      "filetree": "filetree/d4068e70f02d9bf3813fc877bdad7360d8e51d71.nq.gz",
+      "blobs": [
+        "blob/6aec1485aa58a3643ff76077c67d327ce13abaf5.nq.gz",
+        "blob/1c6314a31833395fd5ff016a6506bdd51860657c.nq.gz",
+        "blob/43c97e719a5a824700932f72e6e7e6748ce45d01.nq.gz",
+        "blob/f9008d8e713572cdf836f8ad4d54f2afe66b96c8.nq.gz",
+        "blob/239ecff1372358a22aa99dcbb375fdad7abba817.nq.gz",
+        "blob/906a6f9b83224e75daf5d5d6a8cda554a6b1e996.nq.gz",
+        "blob/6ce6fbe871e87763aea4da04051d4c78085abaa3.nq.gz",
+        "blob/6313b56c57848efce05faa7aa7e901ccfc2886ea.nq.gz",
+        "blob/5358dc50b2883157fca0fa4a12d2bb18acb093ee.nq.gz",
+        "blob/5c192719b39f7b5eb3e80aa99b938533ee966ab6.nq.gz",
+        "blob/609d0e6da714adb432d5f5a5b337f268071f22e7.nq.gz",
+        "blob/db44a785196f345cf7e41265aa3d388e9905d5fd.nq.gz",
+        "blob/0e8a9ccb8665265a0b38d98f5f08c60c3d347c24.nq.gz",
+        "blob/346585cf904a9126a589404f48706564d3791659.nq.gz",
+        "blob/8915597ab45a0b35dc50bc2d08b64ea9382c9546.nq.gz",
+        "blob/fa7ceba3eb4a9657a9db7f3ffca4e4e97a9019de.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
